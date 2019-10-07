@@ -1,0 +1,33 @@
+_repo: Clair-de-terre_60417
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Picasso, Pablo
+    aliases:
+    - Ruys Picasso, Pablo
+    - Ruiz y Picasso, Pablo
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '49945'
+    url: http://www.gutenberg.org/2009/agents/49945
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pablo_Picasso
+    - https://fr.wikipedia.org/wiki/Pablo_Picasso
+creator:
+  author:
+    agent_name: Breton, André
+    gutenberg_agent_id: '50954'
+    url: http://www.gutenberg.org/2009/agents/50954
+description: ''
+gutenberg_issued: '2019-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60417'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Clair de terre
+url: http://www.gutenberg.org/ebooks/60417
