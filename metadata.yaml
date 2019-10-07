@@ -1,5 +1,5 @@
 _repo: Clair-de-terre_60417
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Picasso, Pablo
@@ -13,12 +13,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Pablo_Picasso
     - https://fr.wikipedia.org/wiki/Pablo_Picasso
+covers:
+- cover_type: archival
+  image_path: 60417-h/images/breton_cover.jpg
 creator:
   author:
     agent_name: Breton, André
     gutenberg_agent_id: '50954'
     url: http://www.gutenberg.org/2009/agents/50954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60417#Clair-de-terre
 gutenberg_issued: '2019-10-03'
 gutenberg_type: Text
 identifiers:
